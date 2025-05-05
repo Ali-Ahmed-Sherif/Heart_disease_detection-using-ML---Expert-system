@@ -31,6 +31,8 @@ Key components of the system include:
 - **Rule-based Expert System:** Custom expert system for heart disease risk prediction.
 
 ## Installation
+The model is deployed on streamlit
+0. you can search on the browser with this link  https://heart-disease-detection-machine-learning-expert-system.streamlit.app/
 
 1. Clone this repository:
 
