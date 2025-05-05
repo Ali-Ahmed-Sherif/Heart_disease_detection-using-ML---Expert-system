@@ -35,11 +35,11 @@ Key components of the system include:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/ahd-osama/Heart-Disease-Detection-System.git
-   cd heart-disease-prediction
+   git clone https://github.com/Ali-Ahmed-Sherif/Heart_disease_detection-using-ML---Expert-system.git
+   cd Heart_disease_detection-using-ML---Expert-system
 
 2. Install the required dependencies:
   pip install -r requirements.txt
 
 3. Run the Streamlit application:
-   streamlit run app.py
+   streamlit run ui/app.py
